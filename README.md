@@ -1,5 +1,6 @@
 # battery-info
-<img width="392" alt="Screenshot 2024-04-17 at 10 19 39 PM" src="https://github.com/Vigneshk5/battery-info/assets/97999742/88f64af0-7810-480f-abd2-4a0196415b81">
+<img width="392" alt="Screenshot 2024-04-18 at 4 37 54 PM" src="https://github.com/Vigneshk5/battery-info/assets/97999742/441cd692-36e9-4185-b4d6-0aac5758f6de">
+
 
 
 This project demonstrates a simple application built using wxWidgets to display battery information on macOS. The application utilizes IOKit and CoreFoundation frameworks to retrieve battery details and display them in a graphical user interface.
