@@ -8,9 +8,11 @@ This project demonstrates a simple application built using wxWidgets to display 
 
 To compile and run the Battery Details App, use the following command:
 
-\`\`\`bash
+
+```console
 clang++ -std=c++17 -o BatteryDetailsApp batteryApp.cpp \`./wx-config --cxxflags --libs\` -framework IOKit -framework CoreFoundation
-\`\`\`
+```
+
 
 ## Dependencies
 
