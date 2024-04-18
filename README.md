@@ -10,7 +10,7 @@ To compile and run the Battery Details App, use the following command:
 
 
 ```console
-clang++ -std=c++17 -o BatteryDetailsApp batteryApp.cpp \`./wx-config --cxxflags --libs\` -framework IOKit -framework CoreFoundation
+clang++ -std=c++17 -o BatteryDetailsApp batteryApp.cpp `./wx-config --cxxflags --libs\` -framework IOKit -framework CoreFoundation
 ```
 
 
